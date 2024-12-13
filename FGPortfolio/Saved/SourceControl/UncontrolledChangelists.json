@@ -5,8 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/FG_Portfolio/Portfolio environment/DanaiiPortfolio/FGPortfolio/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/FG_Portfolio/Portfolio environment/DanaiiPortfolio/FGPortfolio/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+				"C:/FG_Portfolio/Git/FGPortfolio/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/FG_Portfolio/Git/FGPortfolio/Content/Street/Street_A.umap",
+				"C:/FG_Portfolio/Git/FGPortfolio/Content/Street/SM/Kit_blockout/SM_Kit_balcony.uasset",
+				"C:/FG_Portfolio/Git/FGPortfolio/Content/Street/SM/Kit_blockout/SM_Kit_Wall_Door_Balcony.uasset"
 			]
 		}
 	]
